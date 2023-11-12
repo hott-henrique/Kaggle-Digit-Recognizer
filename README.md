@@ -6,6 +6,7 @@
 Visual representation of the weights for each linear classifier's neuron:
 
 ![Weights of the linear classifier.](./assets/weights.png)
+
 *The brighter the pixel, the greater the weight.*
 
 ## Performance
